@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 # 替换为你自己的飞书Webhook地址
 webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/ef773d85-bdef-44f9-b022-3272e1bfd368"
 
