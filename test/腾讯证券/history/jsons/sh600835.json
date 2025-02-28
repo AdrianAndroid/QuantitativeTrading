@@ -1,0 +1,408 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80050642",
+                        "gdmc": "上海电气集团股份有限公司",
+                        "cgsl": "491074000",
+                        "gfxz": "国有股",
+                        "ltbl": "48.0155",
+                        "bdms": 0,
+                        "sqcgsl": "491074000"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "29044700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.83989",
+                        "bdms": 0,
+                        "sqcgsl": "61646000"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
+                        "cgsl": "9209140",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.900438",
+                        "bdms": 0,
+                        "sqcgsl": "9168540"
+                    },
+                    {
+                        "gddm": "10000018",
+                        "gdmc": "中信证券股份有限公司",
+                        "cgsl": "6814710",
+                        "gfxz": "国有股",
+                        "ltbl": "0.66632",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82801223",
+                        "gdmc": "TWEEDY,BROWNE INTERNATIONAL VALUE FUND",
+                        "cgsl": "6463000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.63193",
+                        "bdms": 0,
+                        "sqcgsl": "6463000"
+                    },
+                    {
+                        "gddm": "76129779",
+                        "gdmc": "中汇人寿保险股份有限公司－传统产品",
+                        "cgsl": "5000000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.488883",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "苗琼卉",
+                        "cgsl": "4894320",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.47855",
+                        "bdms": 0,
+                        "sqcgsl": "4760320"
+                    },
+                    {
+                        "gddm": "82749331",
+                        "gdmc": "KOPERNIK INTERNATIONAL FUND",
+                        "cgsl": "4311620",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4216",
+                        "bdms": 0,
+                        "sqcgsl": "4311620"
+                    },
+                    {
+                        "gddm": "76129675",
+                        "gdmc": "中汇人寿保险股份有限公司－分红产品",
+                        "cgsl": "4282020",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.418681",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "000385",
+                        "gdmc": "北京银行股份有限公司－景顺长城景颐双利债券型证券投资基金",
+                        "cgsl": "4180400",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.408745",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-29 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80050642",
+                        "gdmc": "上海电气集团股份有限公司",
+                        "cgsl": "491074000",
+                        "gfxz": "国有股",
+                        "ltbl": "48.0155",
+                        "bdms": 0,
+                        "sqcgsl": "491074000"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "61646000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "6.02754",
+                        "bdms": 0,
+                        "sqcgsl": "63948100"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
+                        "cgsl": "9168540",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.896469",
+                        "bdms": 0,
+                        "sqcgsl": "9106440"
+                    },
+                    {
+                        "gddm": "76125082",
+                        "gdmc": "天安人寿保险股份有限公司－分红产品",
+                        "cgsl": "8145520",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.796441",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "70303602",
+                        "gdmc": "基本养老保险基金一零零一组合",
+                        "cgsl": "7489890",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.732336",
+                        "bdms": 0,
+                        "sqcgsl": "7489890"
+                    },
+                    {
+                        "gddm": "82801223",
+                        "gdmc": "TWEEDY,BROWNE INTERNATIONAL VALUE FUND",
+                        "cgsl": "6463000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.63193",
+                        "bdms": 0,
+                        "sqcgsl": "6463000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "苗琼卉",
+                        "cgsl": "4760320",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.465448",
+                        "bdms": 0,
+                        "sqcgsl": "4760320"
+                    },
+                    {
+                        "gddm": "82749331",
+                        "gdmc": "KOPERNIK INTERNATIONAL FUND",
+                        "cgsl": "4311620",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.421575",
+                        "bdms": 0,
+                        "sqcgsl": "4311620"
+                    },
+                    {
+                        "gddm": "80188751",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3636960",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.355609",
+                        "bdms": 0,
+                        "sqcgsl": "3636960"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3360440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.328572",
+                        "bdms": 0,
+                        "sqcgsl": "3360440"
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-17 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80050642",
+                        "gdmc": "上海电气集团股份有限公司",
+                        "cgsl": "491074000",
+                        "gfxz": "国有股",
+                        "ltbl": "48.0155",
+                        "bdms": 0,
+                        "sqcgsl": "491074000"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "63948100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "6.25263",
+                        "bdms": 0,
+                        "sqcgsl": "72825500"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
+                        "cgsl": "9106440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.8904",
+                        "bdms": 0,
+                        "sqcgsl": "9609440"
+                    },
+                    {
+                        "gddm": "70303602",
+                        "gdmc": "基本养老保险基金一零零一组合",
+                        "cgsl": "7489890",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.732336",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82801223",
+                        "gdmc": "TWEEDY,BROWNE INTERNATIONAL VALUE FUND",
+                        "cgsl": "6463000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.6319",
+                        "bdms": 0,
+                        "sqcgsl": "6463000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "苗琼卉",
+                        "cgsl": "4760320",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.465448",
+                        "bdms": 0,
+                        "sqcgsl": "4760320"
+                    },
+                    {
+                        "gddm": "82749331",
+                        "gdmc": "KOPERNIK INTERNATIONAL FUND",
+                        "cgsl": "4311620",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4216",
+                        "bdms": 0,
+                        "sqcgsl": "4311620"
+                    },
+                    {
+                        "gddm": "80188751",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3636960",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3556",
+                        "bdms": 0,
+                        "sqcgsl": "3636960"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3360440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3286",
+                        "bdms": 0,
+                        "sqcgsl": "3360440"
+                    },
+                    {
+                        "gddm": "80067515",
+                        "gdmc": "GIC PRIVATE LIMITED",
+                        "cgsl": "3247160",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3175",
+                        "bdms": 0,
+                        "sqcgsl": "4045560"
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-27 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80050642",
+                        "gdmc": "上海电气集团股份有限公司",
+                        "cgsl": "491074000",
+                        "gfxz": "国有股",
+                        "ltbl": "48.0155",
+                        "bdms": 0,
+                        "sqcgsl": "491074000"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "72825500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.12063",
+                        "bdms": 0,
+                        "sqcgsl": "88189200"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
+                        "cgsl": "9609440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.939578",
+                        "bdms": 0,
+                        "sqcgsl": "9709440"
+                    },
+                    {
+                        "gddm": "82801223",
+                        "gdmc": "TWEEDY,BROWNE INTERNATIONAL VALUE FUND",
+                        "cgsl": "6463000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.63193",
+                        "bdms": 0,
+                        "sqcgsl": "6463000"
+                    },
+                    {
+                        "gddm": "73180713",
+                        "gdmc": "上海瓴仁私募基金管理合伙企业(有限合伙)－瓴仁卓越长青私募证券投资基金",
+                        "cgsl": "6022340",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.588844",
+                        "bdms": 0,
+                        "sqcgsl": "12417800"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "苗琼卉",
+                        "cgsl": "4760320",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.465448",
+                        "bdms": 0,
+                        "sqcgsl": "4760320"
+                    },
+                    {
+                        "gddm": "82749331",
+                        "gdmc": "KOPERNIK INTERNATIONAL FUND",
+                        "cgsl": "4311620",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.421575",
+                        "bdms": 0,
+                        "sqcgsl": "4311620"
+                    },
+                    {
+                        "gddm": "80067515",
+                        "gdmc": "GIC PRIVATE LIMITED",
+                        "cgsl": "4045560",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.395561",
+                        "bdms": 0,
+                        "sqcgsl": "4045560"
+                    },
+                    {
+                        "gddm": "80188751",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3636960",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.355609",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3360440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.328572",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-23 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

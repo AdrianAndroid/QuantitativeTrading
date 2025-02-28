@@ -1,0 +1,407 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80004782",
+                        "gdmc": "天津市医药集团有限公司",
+                        "cgsl": "331121000",
+                        "gfxz": "国有股",
+                        "ltbl": "42.9938",
+                        "bdms": 0,
+                        "sqcgsl": "331121000"
+                    },
+                    {
+                        "gddm": "80629860",
+                        "gdmc": "ABN AMRO CLEARING BANK N.V.",
+                        "cgsl": "72878700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.4628",
+                        "bdms": 0,
+                        "sqcgsl": "73147100"
+                    },
+                    {
+                        "gddm": "80016582",
+                        "gdmc": "PHILLIP SECURITIES PTE LTD",
+                        "cgsl": "26045400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.3818",
+                        "bdms": 0,
+                        "sqcgsl": "25860800"
+                    },
+                    {
+                        "gddm": "80159568",
+                        "gdmc": "DBS NOMINEES PTE LTD",
+                        "cgsl": "17966200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.3328",
+                        "bdms": 0,
+                        "sqcgsl": "18132300"
+                    },
+                    {
+                        "gddm": "80153072",
+                        "gdmc": "CITIBANK NOMS SPORE PTE LTD",
+                        "cgsl": "10954200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.4223",
+                        "bdms": 0,
+                        "sqcgsl": "11719600"
+                    },
+                    {
+                        "gddm": "80065966",
+                        "gdmc": "RAFFLES NOMINEES(PTE) LIMITED",
+                        "cgsl": "8693470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.1288",
+                        "bdms": 0,
+                        "sqcgsl": "8811570"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "5535260",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.718717",
+                        "bdms": 0,
+                        "sqcgsl": "3572360"
+                    },
+                    {
+                        "gddm": "510500",
+                        "gdmc": "中国农业银行股份有限公司－中证500交易型开放式指数证券投资基金",
+                        "cgsl": "5162060",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.670259",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "73170574",
+                        "gdmc": "北京源峰私募基金管理合伙企业(有限合伙)－源峰价值私募证券投资基金",
+                        "cgsl": "4314540",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.560214",
+                        "bdms": 0,
+                        "sqcgsl": "3607940"
+                    },
+                    {
+                        "gddm": "82886718",
+                        "gdmc": "TAN TOH HEAH OR TAN SWEE TECK MICHAEL",
+                        "cgsl": "3700000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4804",
+                        "bdms": 0,
+                        "sqcgsl": "3700000"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80004782",
+                        "gdmc": "天津市医药集团有限公司",
+                        "cgsl": "331121000",
+                        "gfxz": "国有股",
+                        "ltbl": "42.9938",
+                        "bdms": 0,
+                        "sqcgsl": "331121000"
+                    },
+                    {
+                        "gddm": "80629860",
+                        "gdmc": "ABN AMRO CLEARING BANK N.V.",
+                        "cgsl": "73147100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.4977",
+                        "bdms": 0,
+                        "sqcgsl": "69689600"
+                    },
+                    {
+                        "gddm": "80016582",
+                        "gdmc": "PHILLIP SECURITIES PTE LTD",
+                        "cgsl": "25860800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.3579",
+                        "bdms": 0,
+                        "sqcgsl": "25980400"
+                    },
+                    {
+                        "gddm": "80159568",
+                        "gdmc": "DBS NOMINEES PTE LTD",
+                        "cgsl": "18132300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.3544",
+                        "bdms": 0,
+                        "sqcgsl": "17800100"
+                    },
+                    {
+                        "gddm": "80153072",
+                        "gdmc": "CITIBANK NOMS SPORE PTE LTD",
+                        "cgsl": "11719600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.5217",
+                        "bdms": 0,
+                        "sqcgsl": "11256300"
+                    },
+                    {
+                        "gddm": "80065966",
+                        "gdmc": "RAFFLES NOMINEES(PTE) LIMITED",
+                        "cgsl": "8811570",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.1441",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82886718",
+                        "gdmc": "TAN TOH HEAH OR TAN SWEE TECK MICHAEL",
+                        "cgsl": "3700000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4804",
+                        "bdms": 0,
+                        "sqcgsl": "3700000"
+                    },
+                    {
+                        "gddm": "73170574",
+                        "gdmc": "北京源峰私募基金管理合伙企业(有限合伙)－源峰价值私募证券投资基金",
+                        "cgsl": "3607940",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.468467",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "3572360",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.463847",
+                        "bdms": 0,
+                        "sqcgsl": "4693540"
+                    },
+                    {
+                        "gddm": "80065963",
+                        "gdmc": "DBS VICKERS SECURITIES (S) PTE LTD",
+                        "cgsl": "3483000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4522",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-15 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80004782",
+                        "gdmc": "天津市医药集团有限公司",
+                        "cgsl": "331121000",
+                        "gfxz": "国有股",
+                        "ltbl": "42.9938",
+                        "bdms": 0,
+                        "sqcgsl": "331121000"
+                    },
+                    {
+                        "gddm": "80629860",
+                        "gdmc": "ABN AMRO CLEARING BANK N.V.",
+                        "cgsl": "69689600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.04874",
+                        "bdms": 0,
+                        "sqcgsl": "56939700"
+                    },
+                    {
+                        "gddm": "80016582",
+                        "gdmc": "PHILLIP SECURITIES PTE LTD",
+                        "cgsl": "25980400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.37338",
+                        "bdms": 0,
+                        "sqcgsl": "26361700"
+                    },
+                    {
+                        "gddm": "80159568",
+                        "gdmc": "DBS NOMINEES PTE LTD",
+                        "cgsl": "17800100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.31123",
+                        "bdms": 0,
+                        "sqcgsl": "18158800"
+                    },
+                    {
+                        "gddm": "80065966",
+                        "gdmc": "RAFFLES NOMINEES(PTE)LIMITED",
+                        "cgsl": "11339600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.47237",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80153072",
+                        "gdmc": "CITIBANK NOMS SPORE PTE LTD",
+                        "cgsl": "11256300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.46156",
+                        "bdms": 0,
+                        "sqcgsl": "12176500"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4693540",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.609425",
+                        "bdms": 0,
+                        "sqcgsl": "4078700"
+                    },
+                    {
+                        "gddm": "82886718",
+                        "gdmc": "TAN TOH HEAH OR TAN SWEE TECK MICHAEL",
+                        "cgsl": "3700000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.480421",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80065963",
+                        "gdmc": "DBS VICKERS SECURITIES(S)PTE LTD",
+                        "cgsl": "3483800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.452349",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "510500",
+                        "gdmc": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+                        "cgsl": "3311560",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.429984",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80004782",
+                        "gdmc": "天津市医药集团有限公司",
+                        "cgsl": "331121000",
+                        "gfxz": "国有股",
+                        "ltbl": "42.9938",
+                        "bdms": 0,
+                        "sqcgsl": "331121000"
+                    },
+                    {
+                        "gddm": "80629860",
+                        "gdmc": "ABN AMRO CLEARING BANK N.V.",
+                        "cgsl": "56939700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.39325",
+                        "bdms": 0,
+                        "sqcgsl": "56917200"
+                    },
+                    {
+                        "gddm": "80016582",
+                        "gdmc": "PHILLIP SECURITIES PTE LTD",
+                        "cgsl": "26361700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.42289",
+                        "bdms": 0,
+                        "sqcgsl": "26152000"
+                    },
+                    {
+                        "gddm": "80065966",
+                        "gdmc": "RAFFLES NOMINEES(PTE) LIMITED",
+                        "cgsl": "20874400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.7104",
+                        "bdms": 0,
+                        "sqcgsl": "21028400"
+                    },
+                    {
+                        "gddm": "80159568",
+                        "gdmc": "DBS NOMINEES PTE LTD",
+                        "cgsl": "18158800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.3578",
+                        "bdms": 0,
+                        "sqcgsl": "18106600"
+                    },
+                    {
+                        "gddm": "80153072",
+                        "gdmc": "CITIBANK NOMS SPORE PTE LTD",
+                        "cgsl": "12176500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.58104",
+                        "bdms": 0,
+                        "sqcgsl": "12256500"
+                    },
+                    {
+                        "gddm": "003095",
+                        "gdmc": "中国工商银行股份有限公司－中欧医疗健康混合型证券投资基金",
+                        "cgsl": "5348980",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.69453",
+                        "bdms": 0,
+                        "sqcgsl": "13838300"
+                    },
+                    {
+                        "gddm": "70010420",
+                        "gdmc": "广发基金管理有限公司－社保基金四二零组合",
+                        "cgsl": "4711500",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.611758",
+                        "bdms": 0,
+                        "sqcgsl": "6701400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈世辉",
+                        "cgsl": "4418120",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.573664",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4078700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.529593",
+                        "bdms": 0,
+                        "sqcgsl": "8510280"
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-30 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

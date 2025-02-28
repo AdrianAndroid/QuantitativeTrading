@@ -1,0 +1,399 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "谢小军",
+                        "cgsl": "113400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.107321",
+                        "bdms": 0,
+                        "sqcgsl": "113400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王国军",
+                        "cgsl": "123400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.116785",
+                        "bdms": 0,
+                        "sqcgsl": "123400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李长江",
+                        "cgsl": "135600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.128331",
+                        "bdms": 0,
+                        "sqcgsl": "135600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "简小红",
+                        "cgsl": "165430",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.156562",
+                        "bdms": 0,
+                        "sqcgsl": "165430"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄为华",
+                        "cgsl": "175400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.165998",
+                        "bdms": 0,
+                        "sqcgsl": "175400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺小文",
+                        "cgsl": "178400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.168837",
+                        "bdms": 0,
+                        "sqcgsl": "178400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "刘中华",
+                        "cgsl": "184000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.174137",
+                        "bdms": 0,
+                        "sqcgsl": "184000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "易鸣",
+                        "cgsl": "198730",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.188077",
+                        "bdms": 0,
+                        "sqcgsl": "198730"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺仁芽",
+                        "cgsl": "205400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.19439",
+                        "bdms": 0,
+                        "sqcgsl": "205400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李红湘",
+                        "cgsl": "235400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.222782",
+                        "bdms": 0,
+                        "sqcgsl": "235400"
+                    }
+                ],
+                "pdt": "2007-09-30",
+                "dt": "--"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "谢小军",
+                        "cgsl": "113400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.107321",
+                        "bdms": 0,
+                        "sqcgsl": "113400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王国军",
+                        "cgsl": "123400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.116785",
+                        "bdms": 0,
+                        "sqcgsl": "123400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李长江",
+                        "cgsl": "135600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.128331",
+                        "bdms": 0,
+                        "sqcgsl": "135600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "简小红",
+                        "cgsl": "165430",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.156562",
+                        "bdms": 0,
+                        "sqcgsl": "165430"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄为华",
+                        "cgsl": "175400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.165998",
+                        "bdms": 0,
+                        "sqcgsl": "175400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺小文",
+                        "cgsl": "178400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.168837",
+                        "bdms": 0,
+                        "sqcgsl": "178400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "刘中华",
+                        "cgsl": "184000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.174137",
+                        "bdms": 0,
+                        "sqcgsl": "184000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "易鸣",
+                        "cgsl": "198730",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.188077",
+                        "bdms": 0,
+                        "sqcgsl": "198730"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺仁芽",
+                        "cgsl": "205400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.19439",
+                        "bdms": 0,
+                        "sqcgsl": "205400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李红湘",
+                        "cgsl": "235400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.222782",
+                        "bdms": 0,
+                        "sqcgsl": "235400"
+                    }
+                ],
+                "pdt": "2007-06-30",
+                "dt": "--"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "谢小军",
+                        "cgsl": "113400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.107321",
+                        "bdms": 0,
+                        "sqcgsl": "113400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王国军",
+                        "cgsl": "123400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.116785",
+                        "bdms": 0,
+                        "sqcgsl": "123400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李长江",
+                        "cgsl": "135600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.128331",
+                        "bdms": 0,
+                        "sqcgsl": "135600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "简小红",
+                        "cgsl": "165430",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.156562",
+                        "bdms": 0,
+                        "sqcgsl": "165430"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄为华",
+                        "cgsl": "175400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.165998",
+                        "bdms": 0,
+                        "sqcgsl": "175400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺小文",
+                        "cgsl": "178400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.168837",
+                        "bdms": 0,
+                        "sqcgsl": "178400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "刘中华",
+                        "cgsl": "184000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.174137",
+                        "bdms": 0,
+                        "sqcgsl": "184300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "易鸣",
+                        "cgsl": "198730",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.188077",
+                        "bdms": 0,
+                        "sqcgsl": "198730"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺仁芽",
+                        "cgsl": "205400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.19439",
+                        "bdms": 0,
+                        "sqcgsl": "205400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李红湘",
+                        "cgsl": "235400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.222782",
+                        "bdms": 0,
+                        "sqcgsl": "235400"
+                    }
+                ],
+                "pdt": "2006-12-31",
+                "dt": "--"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "谢小军",
+                        "cgsl": "113400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.107321",
+                        "bdms": 0,
+                        "sqcgsl": "113400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王国军",
+                        "cgsl": "123400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.116785",
+                        "bdms": 0,
+                        "sqcgsl": "123400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李长江",
+                        "cgsl": "135600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.128331",
+                        "bdms": 0,
+                        "sqcgsl": "135600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "简小红",
+                        "cgsl": "165430",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.156562",
+                        "bdms": 0,
+                        "sqcgsl": "165430"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄为华",
+                        "cgsl": "175400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.165998",
+                        "bdms": 0,
+                        "sqcgsl": "175400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺小文",
+                        "cgsl": "178400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.168837",
+                        "bdms": 0,
+                        "sqcgsl": "178400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "刘中华",
+                        "cgsl": "184300",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.174421",
+                        "bdms": 0,
+                        "sqcgsl": "184000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "易鸣",
+                        "cgsl": "198730",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.188077",
+                        "bdms": 0,
+                        "sqcgsl": "198730"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "贺仁芽",
+                        "cgsl": "205400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.19439",
+                        "bdms": 0,
+                        "sqcgsl": "205400"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李红湘",
+                        "cgsl": "235400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.222782",
+                        "bdms": 0,
+                        "sqcgsl": "235400"
+                    }
+                ],
+                "pdt": "2006-09-30",
+                "dt": "--"
+            }
+        ],
+        "history": [
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

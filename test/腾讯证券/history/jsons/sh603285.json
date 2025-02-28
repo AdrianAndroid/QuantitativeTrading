@@ -1,0 +1,87 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "81568202",
+                        "gdmc": "高盛公司有限责任公司",
+                        "cgsl": "342747",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.214217"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "谭计友",
+                        "cgsl": "336315",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.210197"
+                    },
+                    {
+                        "gddm": "80056835",
+                        "gdmc": "BARCLAYS BANK PLC",
+                        "cgsl": "278577",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.174111"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "于保家",
+                        "cgsl": "265600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.166"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "叶国林",
+                        "cgsl": "259700",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.162312"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王健",
+                        "cgsl": "226200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.141375"
+                    },
+                    {
+                        "gddm": "70306761",
+                        "gdmc": "J. P. Morgan Securities PLC－自有资金",
+                        "cgsl": "205773",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.128608"
+                    },
+                    {
+                        "gddm": "80044862",
+                        "gdmc": "MORGAN STANLEY & CO. INTERNATIONAL PLC.",
+                        "cgsl": "203659",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.127287"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄海军",
+                        "cgsl": "182000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.11375"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李遐龄",
+                        "cgsl": "168700",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.105438"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-29 00:00:00"
+            }
+        ],
+        "history": [
+            "2024"
+        ]
+    }
+}

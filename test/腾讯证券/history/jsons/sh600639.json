@@ -1,0 +1,408 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "3916720",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.348955",
+                        "bdms": 0,
+                        "sqcgsl": "3972720"
+                    },
+                    {
+                        "gddm": "512100",
+                        "gdmc": "招商银行股份有限公司－南方中证1000交易型开放式指数证券投资基金",
+                        "cgsl": "4124800",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.367494",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "004642",
+                        "gdmc": "中国工商银行股份有限公司－南方中证全指房地产交易型开放式指数证券投资基金",
+                        "cgsl": "4532470",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.403815",
+                        "bdms": 0,
+                        "sqcgsl": "3473820"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4551120",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.405477",
+                        "bdms": 0,
+                        "sqcgsl": "4169640"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "4751860",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4234",
+                        "bdms": 0,
+                        "sqcgsl": "4751860"
+                    },
+                    {
+                        "gddm": "80374881",
+                        "gdmc": "GREENWOODS CHINA ALPHA MASTER FUND",
+                        "cgsl": "4999930",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.445463",
+                        "bdms": 0,
+                        "sqcgsl": "4999930"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5098440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.45424",
+                        "bdms": 0,
+                        "sqcgsl": "5197840"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈国铭",
+                        "cgsl": "14183300",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.26364",
+                        "bdms": 0,
+                        "sqcgsl": "13629100"
+                    },
+                    {
+                        "gddm": "80057831",
+                        "gdmc": "上海国际集团资产管理有限公司",
+                        "cgsl": "19886600",
+                        "gfxz": "国有股",
+                        "ltbl": "1.77177",
+                        "bdms": 0,
+                        "sqcgsl": "19886600"
+                    },
+                    {
+                        "gddm": "80010705",
+                        "gdmc": "上海金桥(集团)有限公司",
+                        "cgsl": "554081000",
+                        "gfxz": "国有股",
+                        "ltbl": "49.3652",
+                        "bdms": 0,
+                        "sqcgsl": "554081000"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80010705",
+                        "gdmc": "上海金桥(集团)有限公司",
+                        "cgsl": "554081000",
+                        "gfxz": "国有股",
+                        "ltbl": "49.3652",
+                        "bdms": 0,
+                        "sqcgsl": "554081000"
+                    },
+                    {
+                        "gddm": "80057831",
+                        "gdmc": "上海国际集团资产管理有限公司",
+                        "cgsl": "19886600",
+                        "gfxz": "国有股",
+                        "ltbl": "1.77177",
+                        "bdms": 0,
+                        "sqcgsl": "19886600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈国铭",
+                        "cgsl": "13629100",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.21427",
+                        "bdms": 0,
+                        "sqcgsl": "11879200"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5197840",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.463095",
+                        "bdms": 0,
+                        "sqcgsl": "5197840"
+                    },
+                    {
+                        "gddm": "80374881",
+                        "gdmc": "GREENWOODS CHINA ALPHA MASTER FUND",
+                        "cgsl": "4999930",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.445463",
+                        "bdms": 0,
+                        "sqcgsl": "4999930"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "4751860",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.423361",
+                        "bdms": 0,
+                        "sqcgsl": "4751860"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4169640",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.371489",
+                        "bdms": 0,
+                        "sqcgsl": "7384740"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "3972720",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.353944",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "3799970",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.338554",
+                        "bdms": 0,
+                        "sqcgsl": "3799970"
+                    },
+                    {
+                        "gddm": "004642",
+                        "gdmc": "中国工商银行股份有限公司－南方中证全指房地产交易型开放式指数证券投资基金",
+                        "cgsl": "3473820",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.309496",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80010705",
+                        "gdmc": "上海金桥(集团)有限公司",
+                        "cgsl": "554081000",
+                        "gfxz": "国有股",
+                        "ltbl": "49.3652",
+                        "bdms": 0,
+                        "sqcgsl": "554081000"
+                    },
+                    {
+                        "gddm": "80057831",
+                        "gdmc": "上海国际集团资产管理有限公司",
+                        "cgsl": "19886600",
+                        "gfxz": "国有股",
+                        "ltbl": "1.77177",
+                        "bdms": 0,
+                        "sqcgsl": "19886600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈国铭",
+                        "cgsl": "11879200",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.0584",
+                        "bdms": 0,
+                        "sqcgsl": "9471590"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "7384740",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.657934",
+                        "bdms": 0,
+                        "sqcgsl": "5806250"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5197840",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4631",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80374881",
+                        "gdmc": "GREENWOODS CHINA ALPHA MASTER FUND",
+                        "cgsl": "4999930",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4455",
+                        "bdms": 0,
+                        "sqcgsl": "4999930"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "4751860",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4234",
+                        "bdms": 0,
+                        "sqcgsl": "4751860"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES (HONG KONG) LIMITED",
+                        "cgsl": "4012720",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3575",
+                        "bdms": 0,
+                        "sqcgsl": "4444200"
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "3799970",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3386",
+                        "bdms": 0,
+                        "sqcgsl": "3799970"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "韩朝东",
+                        "cgsl": "2896970",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.2581",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80010705",
+                        "gdmc": "上海金桥(集团)有限公司",
+                        "cgsl": "554081000",
+                        "gfxz": "国有股",
+                        "ltbl": "49.3652",
+                        "bdms": 0,
+                        "sqcgsl": "554081000"
+                    },
+                    {
+                        "gddm": "80057831",
+                        "gdmc": "上海国际集团资产管理有限公司",
+                        "cgsl": "19886600",
+                        "gfxz": "国有股",
+                        "ltbl": "1.77177",
+                        "bdms": 0,
+                        "sqcgsl": "19886600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈国铭",
+                        "cgsl": "9471590",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.84386",
+                        "bdms": 0,
+                        "sqcgsl": "9171590"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "5806250",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.5173",
+                        "bdms": 0,
+                        "sqcgsl": "9346490"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VAVNGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5197840",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4631",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80374881",
+                        "gdmc": "GREENWOODS CHINA ALPHA MASTER FUND",
+                        "cgsl": "4999930",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.445463",
+                        "bdms": 0,
+                        "sqcgsl": "4999930"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "4751860",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.423361",
+                        "bdms": 0,
+                        "sqcgsl": "4751860"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES (HONG KONG) LIMITED",
+                        "cgsl": "4444200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.39595",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "3799970",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.338554",
+                        "bdms": 0,
+                        "sqcgsl": "3799970"
+                    },
+                    {
+                        "gddm": "510810",
+                        "gdmc": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
+                        "cgsl": "3305440",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.294494",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-04-12 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

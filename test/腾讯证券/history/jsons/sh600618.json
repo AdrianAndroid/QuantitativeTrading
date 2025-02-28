@@ -1,0 +1,404 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80009778",
+                        "gdmc": "上海华谊控股集团有限公司",
+                        "cgsl": "538806000",
+                        "gfxz": "国有股",
+                        "ltbl": "46.5934",
+                        "bdms": 0,
+                        "sqcgsl": "538806000"
+                    },
+                    {
+                        "gddm": "80571313",
+                        "gdmc": "ISHARES CORE MSCI EMERGING MARKETS ETF",
+                        "cgsl": "7706110",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.666388",
+                        "bdms": 0,
+                        "sqcgsl": "7706110"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "6349390",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.549065",
+                        "bdms": 0,
+                        "sqcgsl": "6552890"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "5855090",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.50632",
+                        "bdms": 0,
+                        "sqcgsl": "4683710"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5370900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.46445",
+                        "bdms": 0,
+                        "sqcgsl": "5370900"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "孙月龙",
+                        "cgsl": "3903200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.33753",
+                        "bdms": 0,
+                        "sqcgsl": "3903200"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "3603020",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.311572",
+                        "bdms": 0,
+                        "sqcgsl": "3537020"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "曹蒙梅",
+                        "cgsl": "3388380",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.293011",
+                        "bdms": 0,
+                        "sqcgsl": "3137580"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "彭刚",
+                        "cgsl": "3200400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.276755",
+                        "bdms": 0,
+                        "sqcgsl": "3177300"
+                    },
+                    {
+                        "gddm": "80543049",
+                        "gdmc": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
+                        "cgsl": "2960640",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.256022",
+                        "bdms": 0,
+                        "sqcgsl": "3420340"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80009778",
+                        "gdmc": "上海华谊控股集团有限公司",
+                        "cgsl": "538806000",
+                        "gfxz": "国有股",
+                        "ltbl": "46.5934",
+                        "bdms": 0,
+                        "sqcgsl": "538806000"
+                    },
+                    {
+                        "gddm": "80571313",
+                        "gdmc": "ISHARES CORE MSCI EMERGING MARKETS ETF",
+                        "cgsl": "7706110",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.666388",
+                        "bdms": 0,
+                        "sqcgsl": "7706110"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "6552890",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.5667",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5370900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.46445",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4683710",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.405025",
+                        "bdms": 0,
+                        "sqcgsl": "3271940"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "孙月龙",
+                        "cgsl": "3903200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.33753",
+                        "bdms": 0,
+                        "sqcgsl": "3903200"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "3537020",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.305865",
+                        "bdms": 0,
+                        "sqcgsl": "3531020"
+                    },
+                    {
+                        "gddm": "80543049",
+                        "gdmc": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
+                        "cgsl": "3420340",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.295775",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "彭刚",
+                        "cgsl": "3177300",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.274758",
+                        "bdms": 0,
+                        "sqcgsl": "2999300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "曹蒙梅",
+                        "cgsl": "3137580",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.271323",
+                        "bdms": 0,
+                        "sqcgsl": "3137580"
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-03 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80009778",
+                        "gdmc": "上海华谊控股集团有限公司",
+                        "cgsl": "538806000",
+                        "gfxz": "国有股",
+                        "ltbl": "46.5934",
+                        "bdms": 0,
+                        "sqcgsl": "538806000"
+                    },
+                    {
+                        "gddm": "80571313",
+                        "gdmc": "ISHARES CORE MSCI EMERGING MARKETS ETF",
+                        "cgsl": "7706110",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.666388",
+                        "bdms": 0,
+                        "sqcgsl": "7706110"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX  FUND",
+                        "cgsl": "7128890",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.616473",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX  FUND",
+                        "cgsl": "5370900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.46445",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "孙月龙",
+                        "cgsl": "3903200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.33753",
+                        "bdms": 0,
+                        "sqcgsl": "3903200"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "3531020",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.305346",
+                        "bdms": 0,
+                        "sqcgsl": "3493520"
+                    },
+                    {
+                        "gddm": "80543049",
+                        "gdmc": "ARROWSTREET EMERGING MARKET ALPHA  EXTENSION TRUST FUND",
+                        "cgsl": "3420340",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.2958",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "3271940",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.282942",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "曹蒙梅",
+                        "cgsl": "3137580",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.271323",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "彭刚",
+                        "cgsl": "2999300",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.259365",
+                        "bdms": 0,
+                        "sqcgsl": "2953400"
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80009778",
+                        "gdmc": "上海华谊控股集团有限公司",
+                        "cgsl": "538806000",
+                        "gfxz": "国有股",
+                        "ltbl": "46.5934",
+                        "bdms": 0,
+                        "sqcgsl": "538806000"
+                    },
+                    {
+                        "gddm": "80571313",
+                        "gdmc": "ISHARES CORE MSCI EMERGING MARKETS ETF",
+                        "cgsl": "7706110",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.666388",
+                        "bdms": 0,
+                        "sqcgsl": "7715410"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "7128890",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.616473",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "5370900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.46445",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "孙月龙",
+                        "cgsl": "3903200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.33753",
+                        "bdms": 0,
+                        "sqcgsl": "3903200"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "3493520",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.302103",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80543049",
+                        "gdmc": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
+                        "cgsl": "3420340",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.295775",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "彭刚",
+                        "cgsl": "2953400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.255396",
+                        "bdms": 0,
+                        "sqcgsl": "2447100"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "方建伟",
+                        "cgsl": "2787510",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.24105",
+                        "bdms": 0,
+                        "sqcgsl": "2787510"
+                    },
+                    {
+                        "gddm": "80001487",
+                        "gdmc": "中国银行无锡分行",
+                        "cgsl": "2605980",
+                        "gfxz": "国有股",
+                        "ltbl": "0.225353",
+                        "bdms": 0,
+                        "sqcgsl": "2605980"
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-04-16 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

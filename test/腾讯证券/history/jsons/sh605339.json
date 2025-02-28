@@ -1,0 +1,386 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "黄强胜",
+                        "cgsl": "468200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.110349",
+                        "bdms": 0,
+                        "sqcgsl": "468200"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "魏志华",
+                        "cgsl": "500000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.117844",
+                        "bdms": 0,
+                        "sqcgsl": "540600"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "翁俊",
+                        "cgsl": "879390",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.207261",
+                        "bdms": 0,
+                        "sqcgsl": "974090"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张丽",
+                        "cgsl": "1516780",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.357487",
+                        "bdms": 0,
+                        "sqcgsl": "694836"
+                    },
+                    {
+                        "gddm": "81017892",
+                        "gdmc": "Intro-Wealth Partners Co. Ltd.",
+                        "cgsl": "2760470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.650608",
+                        "bdms": 0,
+                        "sqcgsl": "2760470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "廖国沛",
+                        "cgsl": "2791650",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.657957",
+                        "bdms": 0,
+                        "sqcgsl": "2791650"
+                    },
+                    {
+                        "gddm": "70322982",
+                        "gdmc": "南侨食品集团(上海)股份有限公司回购专用证券账户",
+                        "cgsl": "3329970",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.7848",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "梁盛谊",
+                        "cgsl": "7238490",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.70602",
+                        "bdms": 0,
+                        "sqcgsl": "7238490"
+                    },
+                    {
+                        "gddm": "81017888",
+                        "gdmc": "Alfred&Chen Partners Co. Ltd.",
+                        "cgsl": "10345900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.4384",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81017898",
+                        "gdmc": "NAMCHOW(CAYMAN ISLANDS)HOLDING CORP.",
+                        "cgsl": "346015000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "81.5515",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "81017898",
+                        "gdmc": "NAMCHOW(CAYMAN ISLANDS) HOLDING CORP.",
+                        "cgsl": "346015000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "81.2177",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81017888",
+                        "gdmc": "Alfred&Chen Partners Co.Ltd.",
+                        "cgsl": "10345900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.4284",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "梁盛谊",
+                        "cgsl": "7238490",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.69904",
+                        "bdms": 0,
+                        "sqcgsl": "7238490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "廖国沛",
+                        "cgsl": "2791650",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.655264",
+                        "bdms": 0,
+                        "sqcgsl": "2791650"
+                    },
+                    {
+                        "gddm": "81017892",
+                        "gdmc": "Intro-Wealth Partners Co. Ltd.",
+                        "cgsl": "2760470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.647944",
+                        "bdms": 0,
+                        "sqcgsl": "2760470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "翁俊",
+                        "cgsl": "974090",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.228641",
+                        "bdms": 0,
+                        "sqcgsl": "842990"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张丽",
+                        "cgsl": "694836",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.163094",
+                        "bdms": 0,
+                        "sqcgsl": "644336"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "魏志华",
+                        "cgsl": "540600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.126891",
+                        "bdms": 0,
+                        "sqcgsl": "468700"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄强胜",
+                        "cgsl": "468200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.109897",
+                        "bdms": 0,
+                        "sqcgsl": "468200"
+                    },
+                    {
+                        "gddm": "81017899",
+                        "gdmc": "宁波梅山保税港区侨祥投资管理合伙企业(有限合伙)",
+                        "cgsl": "460078",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.107991",
+                        "bdms": 0,
+                        "sqcgsl": "460078"
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-13 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "梁盛谊",
+                        "cgsl": "7238490",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.69904",
+                        "bdms": 0,
+                        "sqcgsl": "7238490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "廖国沛",
+                        "cgsl": "2791650",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.655264",
+                        "bdms": 0,
+                        "sqcgsl": "2791650"
+                    },
+                    {
+                        "gddm": "81017892",
+                        "gdmc": "Intro-Wealth Partners Co. Ltd.",
+                        "cgsl": "2760470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.647944",
+                        "bdms": 0,
+                        "sqcgsl": "2760470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "安娜",
+                        "cgsl": "879380",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.20641",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "翁俊",
+                        "cgsl": "842990",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.197869",
+                        "bdms": 0,
+                        "sqcgsl": "931590"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张丽",
+                        "cgsl": "644336",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.15124",
+                        "bdms": 0,
+                        "sqcgsl": "429336"
+                    },
+                    {
+                        "gddm": "80507977",
+                        "gdmc": "申万宏源证券有限公司",
+                        "cgsl": "511425",
+                        "gfxz": "国有股",
+                        "ltbl": "0.120043",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "魏志华",
+                        "cgsl": "468700",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.110015",
+                        "bdms": 0,
+                        "sqcgsl": "366500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄强胜",
+                        "cgsl": "468200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.109897",
+                        "bdms": 0,
+                        "sqcgsl": "432900"
+                    },
+                    {
+                        "gddm": "81017899",
+                        "gdmc": "宁波梅山保税港区侨祥投资管理合伙企业(有限合伙)",
+                        "cgsl": "460078",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.107991",
+                        "bdms": 0,
+                        "sqcgsl": "460078"
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "梁盛谊",
+                        "cgsl": "7238490",
+                        "gfxz": "自然人股",
+                        "ltbl": "1.69877",
+                        "bdms": 0,
+                        "sqcgsl": "7238490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "廖国沛",
+                        "cgsl": "2791650",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.655161",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81017892",
+                        "gdmc": "Intro-Wealth Partners Co. Ltd.",
+                        "cgsl": "2760470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.647843",
+                        "bdms": 0,
+                        "sqcgsl": "2760470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "翁俊",
+                        "cgsl": "931590",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.218631",
+                        "bdms": 0,
+                        "sqcgsl": "931590"
+                    },
+                    {
+                        "gddm": "81017899",
+                        "gdmc": "宁波梅山保税港区侨祥投资管理合伙企业(有限合伙)",
+                        "cgsl": "460078",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.107974",
+                        "bdms": 0,
+                        "sqcgsl": "460078"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄强胜",
+                        "cgsl": "432900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.101596",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张丽",
+                        "cgsl": "429336",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.100759",
+                        "bdms": 0,
+                        "sqcgsl": "463436"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "郑扬",
+                        "cgsl": "427400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.100305",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "魏志华",
+                        "cgsl": "366500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0860124",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "钱莉",
+                        "cgsl": "358900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0842288",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-12 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021"
+        ]
+    }
+}

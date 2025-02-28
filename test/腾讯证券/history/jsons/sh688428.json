@@ -1,0 +1,393 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80010104",
+                        "gdmc": "HKSCC NOMINEES LIMITED",
+                        "cgsl": "857691000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "48.6615",
+                        "bdms": 0,
+                        "sqcgsl": "730718000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "King Bridge Investments Limited及其一致行动人",
+                        "cgsl": "158589000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.9976",
+                        "bdms": 0,
+                        "sqcgsl": "158589000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunny View Holdings Limited与Renbin Zhao(赵仁滨)家族",
+                        "cgsl": "144718000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.2106",
+                        "bdms": 0,
+                        "sqcgsl": "144618000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunland BioMed Ltd与Jisong Cui(崔霁松)家族",
+                        "cgsl": "126600000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.1827",
+                        "bdms": 0,
+                        "sqcgsl": "126188000"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司－鹏华医药科技股票型证券投资基金",
+                        "cgsl": "19150600",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.08652",
+                        "bdms": 0,
+                        "sqcgsl": "19150600"
+                    },
+                    {
+                        "gddm": "005176",
+                        "gdmc": "中国建设银行股份有限公司－富国精准医疗灵活配置混合型证券投资基金",
+                        "cgsl": "12823400",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.727539",
+                        "bdms": 0,
+                        "sqcgsl": "7383630"
+                    },
+                    {
+                        "gddm": "110023",
+                        "gdmc": "中国银行股份有限公司－易方达医疗保健行业混合型证券投资基金",
+                        "cgsl": "11515700",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.65335",
+                        "bdms": 0,
+                        "sqcgsl": "5208610"
+                    },
+                    {
+                        "gddm": "80147025",
+                        "gdmc": "广州高新区科技控股集团有限公司",
+                        "cgsl": "8975520",
+                        "gfxz": "国有股",
+                        "ltbl": "0.50923",
+                        "bdms": 0,
+                        "sqcgsl": "8975520"
+                    },
+                    {
+                        "gddm": "001417",
+                        "gdmc": "招商银行股份有限公司－汇添富医疗服务灵活配置混合型证券投资基金",
+                        "cgsl": "8836510",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.501343",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "HHLR Fund,L.P.及其一致行动人",
+                        "cgsl": "208671000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "11.8391",
+                        "bdms": 0,
+                        "sqcgsl": "208671000"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-11-12 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80010104",
+                        "gdmc": "HKSCC NOMINEES LIMITED",
+                        "cgsl": "730718000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "41.4572",
+                        "bdms": 0,
+                        "sqcgsl": "730634000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "HHLR Fund,L.P.及其一致行动人",
+                        "cgsl": "208671000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "11.8389",
+                        "bdms": 0,
+                        "sqcgsl": "208671000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "King Bridge Investments Limited及其一致行动人",
+                        "cgsl": "158589000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.99751",
+                        "bdms": 0,
+                        "sqcgsl": "158988000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunny View Holdings Limited与Renbin Zhao(赵仁滨)家族",
+                        "cgsl": "144618000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.20489",
+                        "bdms": 0,
+                        "sqcgsl": "144618000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Vivo Capital Fund VIII,L.P.及其一致行动人",
+                        "cgsl": "129136000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.32653",
+                        "bdms": 0,
+                        "sqcgsl": "129136000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunland BioMed Ltd与Jisong Cui(崔霁松)家族",
+                        "cgsl": "126188000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.15926",
+                        "bdms": 0,
+                        "sqcgsl": "125872000"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司-鹏华医药科技股票型证券投资基金",
+                        "cgsl": "19150600",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.08651",
+                        "bdms": 0,
+                        "sqcgsl": "19150600"
+                    },
+                    {
+                        "gddm": "80147025",
+                        "gdmc": "广州高新区科技控股集团有限公司",
+                        "cgsl": "8975520",
+                        "gfxz": "国有股",
+                        "ltbl": "0.509226",
+                        "bdms": 0,
+                        "sqcgsl": "8975520"
+                    },
+                    {
+                        "gddm": "005176",
+                        "gdmc": "中国建设银行股份有限公司-富国精准医疗灵活配置混合型证券投资基金",
+                        "cgsl": "7383630",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.41891",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "110023",
+                        "gdmc": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+                        "cgsl": "5208610",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.29551",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-21 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80010104",
+                        "gdmc": "HKSCC NOMINEES LIMITED",
+                        "cgsl": "730634000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "41.4525",
+                        "bdms": 0,
+                        "sqcgsl": "731330000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "HHLR Fund,L.P.及其一致行动人",
+                        "cgsl": "208671000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "11.8389",
+                        "bdms": 0,
+                        "sqcgsl": "208671000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "King Bridge Investments Limited及其一致行动人",
+                        "cgsl": "158988000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.0202",
+                        "bdms": 0,
+                        "sqcgsl": "158840000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunny View Holdings Limited与Renbin Zhao(赵仁滨)家族",
+                        "cgsl": "144618000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.2049",
+                        "bdms": 0,
+                        "sqcgsl": "144618000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Vivo Capital Fund VIII,L.P.及其一致行动人",
+                        "cgsl": "129136000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.3265",
+                        "bdms": 0,
+                        "sqcgsl": "129136000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunland BioMed Ltd与Jisong Cui(崔霁松)家族",
+                        "cgsl": "125872000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.1413",
+                        "bdms": 0,
+                        "sqcgsl": "125872000"
+                    },
+                    {
+                        "gddm": "161903",
+                        "gdmc": "交通银行股份有限公司-万家行业优选混合型证券投资基金(LOF)",
+                        "cgsl": "20000000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.1347",
+                        "bdms": 0,
+                        "sqcgsl": "20000000"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司-鹏华医药科技股票型证券投资基金",
+                        "cgsl": "19150600",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.08651",
+                        "bdms": 0,
+                        "sqcgsl": "19150600"
+                    },
+                    {
+                        "gddm": "80147025",
+                        "gdmc": "广州高新区科技控股集团有限公司",
+                        "cgsl": "8975520",
+                        "gfxz": "国有股",
+                        "ltbl": "0.509226",
+                        "bdms": 0,
+                        "sqcgsl": "8975520"
+                    },
+                    {
+                        "gddm": "002408",
+                        "gdmc": "渤海银行股份有限公司-中信建投医改灵活配置混合型证券投资基金",
+                        "cgsl": "8900000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.504941",
+                        "bdms": 0,
+                        "sqcgsl": "8900000"
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-05-14 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "HHLR Fund,L.P.及其一致行动人",
+                        "cgsl": "208671000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "11.8353",
+                        "bdms": 0,
+                        "sqcgsl": "208671000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "King Bridge Investments Limited及其一致行动人",
+                        "cgsl": "158840000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.00898",
+                        "bdms": 0,
+                        "sqcgsl": "158988000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunny View Holdings Limited与Renbin Zhao(赵仁滨)家族",
+                        "cgsl": "144618000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "8.20234",
+                        "bdms": 0,
+                        "sqcgsl": "144618000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Vivo Capital Fund VIII,L.P.及其一致行动人",
+                        "cgsl": "129136000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.32425",
+                        "bdms": 0,
+                        "sqcgsl": "130829000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "Sunland BioMed Ltd与Jisong Cui(崔霁松)家族",
+                        "cgsl": "125872000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "7.13911",
+                        "bdms": 0,
+                        "sqcgsl": "127590000"
+                    },
+                    {
+                        "gddm": "161903",
+                        "gdmc": "交通银行股份有限公司-万家行业优选混合型证券投资基金(LOF)",
+                        "cgsl": "20000000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.13435",
+                        "bdms": 0,
+                        "sqcgsl": "20000000"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司-鹏华医药科技股票型证券投资基金",
+                        "cgsl": "19150600",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.08617",
+                        "bdms": 0,
+                        "sqcgsl": "16527200"
+                    },
+                    {
+                        "gddm": "002408",
+                        "gdmc": "渤海银行股份有限公司-中信建投医改灵活配置混合型证券投资基金",
+                        "cgsl": "8900000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.504784",
+                        "bdms": 0,
+                        "sqcgsl": "8550000"
+                    },
+                    {
+                        "gddm": "80010104",
+                        "gdmc": "HKSCC NOMINEES LIMITED",
+                        "cgsl": "731330000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "41.4791",
+                        "bdms": 0,
+                        "sqcgsl": "728962000"
+                    },
+                    {
+                        "gddm": "80147025",
+                        "gdmc": "广州高新区科技控股集团有限公司",
+                        "cgsl": "8975520",
+                        "gfxz": "国有股",
+                        "ltbl": "0.509067",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-29 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022"
+        ]
+    }
+}

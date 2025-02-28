@@ -1,0 +1,392 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "82568867",
+                        "gdmc": "ABA－Bio(Hong Kong)Limited",
+                        "cgsl": "32940000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "5.71164",
+                        "bdms": 0,
+                        "sqcgsl": "32940000"
+                    },
+                    {
+                        "gddm": "82637135",
+                        "gdmc": "LAV Apex Hong Kong Limited",
+                        "cgsl": "24079200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.1752",
+                        "bdms": 0,
+                        "sqcgsl": "24079200"
+                    },
+                    {
+                        "gddm": "82637134",
+                        "gdmc": "OAP III (HK) Limited",
+                        "cgsl": "19929300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.45564",
+                        "bdms": 0,
+                        "sqcgsl": "19929300"
+                    },
+                    {
+                        "gddm": "82563924",
+                        "gdmc": "HH SPR－XIV HK Holdings Limited",
+                        "cgsl": "19794100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.4322",
+                        "bdms": 0,
+                        "sqcgsl": "19794100"
+                    },
+                    {
+                        "gddm": "82637139",
+                        "gdmc": "LAV Alpha Hong Kong Limited",
+                        "cgsl": "12039600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.0876",
+                        "bdms": 0,
+                        "sqcgsl": "12039600"
+                    },
+                    {
+                        "gddm": "011578",
+                        "gdmc": "交通银行股份有限公司－汇丰晋信核心成长混合型证券投资基金",
+                        "cgsl": "10121500",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.75502",
+                        "bdms": 0,
+                        "sqcgsl": "9513530"
+                    },
+                    {
+                        "gddm": "82568868",
+                        "gdmc": "博山投資有限公司",
+                        "cgsl": "9362160",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.62335",
+                        "bdms": 0,
+                        "sqcgsl": "9362160"
+                    },
+                    {
+                        "gddm": "540008",
+                        "gdmc": "交通银行股份有限公司－汇丰晋信低碳先锋股票型证券投资基金",
+                        "cgsl": "7553590",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.30975",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司－鹏华医药科技股票型证券投资基金",
+                        "cgsl": "6667520",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.15612",
+                        "bdms": 0,
+                        "sqcgsl": "6667520"
+                    },
+                    {
+                        "gddm": "82637140",
+                        "gdmc": "Sunflower Light Hong Kong Limited",
+                        "cgsl": "6482010",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.12395",
+                        "bdms": 0,
+                        "sqcgsl": "6482010"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "82568867",
+                        "gdmc": "ABA－Bio(Hong Kong)Limited",
+                        "cgsl": "32940000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "5.71164",
+                        "bdms": 0,
+                        "sqcgsl": "32940000"
+                    },
+                    {
+                        "gddm": "82637135",
+                        "gdmc": "LAV Apex Hong Kong Limited",
+                        "cgsl": "24079200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.1752",
+                        "bdms": 0,
+                        "sqcgsl": "24079200"
+                    },
+                    {
+                        "gddm": "82637134",
+                        "gdmc": "OAP III (HK) Limited",
+                        "cgsl": "19929300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.45564",
+                        "bdms": 0,
+                        "sqcgsl": "19929300"
+                    },
+                    {
+                        "gddm": "82563924",
+                        "gdmc": "HH SPR－XIV HK Holdings Limited",
+                        "cgsl": "19794100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.4322",
+                        "bdms": 0,
+                        "sqcgsl": "19794100"
+                    },
+                    {
+                        "gddm": "82637139",
+                        "gdmc": "LAV Alpha Hong Kong Limited",
+                        "cgsl": "12039600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.0876",
+                        "bdms": 0,
+                        "sqcgsl": "12039600"
+                    },
+                    {
+                        "gddm": "011578",
+                        "gdmc": "交通银行股份有限公司－汇丰晋信核心成长混合型证券投资基金",
+                        "cgsl": "9513530",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.6496",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82568868",
+                        "gdmc": "博山投資有限公司",
+                        "cgsl": "9362160",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.62335",
+                        "bdms": 0,
+                        "sqcgsl": "9362160"
+                    },
+                    {
+                        "gddm": "000831",
+                        "gdmc": "中国银行股份有限公司－工银瑞信医疗保健行业股票型证券投资基金",
+                        "cgsl": "7742080",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.34244",
+                        "bdms": 0,
+                        "sqcgsl": "6992080"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司－鹏华医药科技股票型证券投资基金",
+                        "cgsl": "6667520",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.15612",
+                        "bdms": 0,
+                        "sqcgsl": "6667520"
+                    },
+                    {
+                        "gddm": "82637140",
+                        "gdmc": "Sunflower Light Hong Kong Limited",
+                        "cgsl": "6482010",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.12395",
+                        "bdms": 0,
+                        "sqcgsl": "6482010"
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-23 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "82568867",
+                        "gdmc": "ABA－Bio(Hong Kong)Limited",
+                        "cgsl": "32940000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "5.71222",
+                        "bdms": 0,
+                        "sqcgsl": "32940000"
+                    },
+                    {
+                        "gddm": "82637135",
+                        "gdmc": "LAV Apex Hong Kong Limited",
+                        "cgsl": "24079200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.17564",
+                        "bdms": 0,
+                        "sqcgsl": "24079200"
+                    },
+                    {
+                        "gddm": "82637134",
+                        "gdmc": "OAP III (HK) Limited",
+                        "cgsl": "19929300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.45599",
+                        "bdms": 0,
+                        "sqcgsl": "22788500"
+                    },
+                    {
+                        "gddm": "82563924",
+                        "gdmc": "HH SPR－XIV HK Holdings Limited",
+                        "cgsl": "19794100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.43255",
+                        "bdms": 0,
+                        "sqcgsl": "24584300"
+                    },
+                    {
+                        "gddm": "82637139",
+                        "gdmc": "LAV Alpha Hong Kong Limited",
+                        "cgsl": "12039600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.08782",
+                        "bdms": 0,
+                        "sqcgsl": "12039600"
+                    },
+                    {
+                        "gddm": "82568868",
+                        "gdmc": "博山投資有限公司",
+                        "cgsl": "9362160",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.62352",
+                        "bdms": 0,
+                        "sqcgsl": "9362160"
+                    },
+                    {
+                        "gddm": "000831",
+                        "gdmc": "中国银行股份有限公司－工银瑞信医疗保健行业股票型证券投资基金",
+                        "cgsl": "6992080",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.21252",
+                        "bdms": 0,
+                        "sqcgsl": "5342270"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司－鹏华医药科技股票型证券投资基金",
+                        "cgsl": "6667520",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.15623",
+                        "bdms": 0,
+                        "sqcgsl": "6667520"
+                    },
+                    {
+                        "gddm": "82637140",
+                        "gdmc": "Sunflower Light Hong Kong Limited",
+                        "cgsl": "6482010",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.12406",
+                        "bdms": 0,
+                        "sqcgsl": "6482010"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "6445900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.1178",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "82568867",
+                        "gdmc": "ABA－Bio(Hong Kong)Limited",
+                        "cgsl": "32940000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "5.7287",
+                        "bdms": 0,
+                        "sqcgsl": "32940000"
+                    },
+                    {
+                        "gddm": "82563924",
+                        "gdmc": "HH SPR－XIV HK Holdings Limited",
+                        "cgsl": "24584300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.27554",
+                        "bdms": 0,
+                        "sqcgsl": "29449900"
+                    },
+                    {
+                        "gddm": "82637135",
+                        "gdmc": "LAV Apex Hong Kong Limited",
+                        "cgsl": "24079200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.1877",
+                        "bdms": 0,
+                        "sqcgsl": "24079200"
+                    },
+                    {
+                        "gddm": "82637134",
+                        "gdmc": "OAP III (HK) Limited",
+                        "cgsl": "22788500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.96322",
+                        "bdms": 0,
+                        "sqcgsl": "28749900"
+                    },
+                    {
+                        "gddm": "82637139",
+                        "gdmc": "LAV Alpha Hong Kong Limited",
+                        "cgsl": "12039600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.0938",
+                        "bdms": 0,
+                        "sqcgsl": "12039600"
+                    },
+                    {
+                        "gddm": "82568868",
+                        "gdmc": "博山投資有限公司",
+                        "cgsl": "9362160",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.6282",
+                        "bdms": 0,
+                        "sqcgsl": "12913200"
+                    },
+                    {
+                        "gddm": "004851",
+                        "gdmc": "中国银行股份有限公司－广发医疗保健股票型证券投资基金",
+                        "cgsl": "7378050",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.28314",
+                        "bdms": 0,
+                        "sqcgsl": "9622840"
+                    },
+                    {
+                        "gddm": "001230",
+                        "gdmc": "中国农业银行股份有限公司－鹏华医药科技股票型证券投资基金",
+                        "cgsl": "6667520",
+                        "gfxz": "境内法人股",
+                        "ltbl": "1.15957",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82637140",
+                        "gdmc": "Sunflower Light Hong Kong Limited",
+                        "cgsl": "6482010",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.12731",
+                        "bdms": 0,
+                        "sqcgsl": "6537550"
+                    },
+                    {
+                        "gddm": "000831",
+                        "gdmc": "中国银行股份有限公司－工银瑞信医疗保健行业股票型证券投资基金",
+                        "cgsl": "5342270",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.929091",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-04-26 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022"
+        ]
+    }
+}

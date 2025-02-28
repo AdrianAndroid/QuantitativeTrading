@@ -1,0 +1,403 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "10000442",
+                        "gdmc": "上海大众公用事业(集团)股份有限公司",
+                        "cgsl": "473186000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "20.0153",
+                        "bdms": 0,
+                        "sqcgsl": "473186000"
+                    },
+                    {
+                        "gddm": "80382410",
+                        "gdmc": "Fretum Construction ＆ Engineering Enterprise Limited",
+                        "cgsl": "111499000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.7163",
+                        "bdms": 0,
+                        "sqcgsl": "111499000"
+                    },
+                    {
+                        "gddm": "80136216",
+                        "gdmc": "大众(香港)国际有限公司",
+                        "cgsl": "47676300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.01666",
+                        "bdms": 0,
+                        "sqcgsl": "47676300"
+                    },
+                    {
+                        "gddm": "80056835",
+                        "gdmc": "BARCLAYS BANK PLC",
+                        "cgsl": "13685700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.578891",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "70306761",
+                        "gdmc": "J. P. Morgan Securities PLC－自有资金",
+                        "cgsl": "11636900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.49223",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "康彬飞",
+                        "cgsl": "11095300",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.469321",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80044863",
+                        "gdmc": "UBS AG",
+                        "cgsl": "10682100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.451842",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "林智敏",
+                        "cgsl": "8964680",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.379197",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "8483350",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3588",
+                        "bdms": 0,
+                        "sqcgsl": "14106100"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "谢建和",
+                        "cgsl": "7734250",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.327151",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "10000442",
+                        "gdmc": "上海大众公用事业(集团)股份有限公司",
+                        "cgsl": "473186000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "20.0153",
+                        "bdms": 0,
+                        "sqcgsl": "473186000"
+                    },
+                    {
+                        "gddm": "80382410",
+                        "gdmc": "Fretum Construction ＆ Engineering Enterprise Limited",
+                        "cgsl": "111499000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.7163",
+                        "bdms": 0,
+                        "sqcgsl": "111499000"
+                    },
+                    {
+                        "gddm": "80136216",
+                        "gdmc": "大众(香港)国际有限公司",
+                        "cgsl": "47676300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.0167",
+                        "bdms": 0,
+                        "sqcgsl": "47676300"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "14106100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.596674",
+                        "bdms": 0,
+                        "sqcgsl": "14369100"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李传元",
+                        "cgsl": "14030100",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.593458",
+                        "bdms": 0,
+                        "sqcgsl": "12511500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "洪雁",
+                        "cgsl": "11043200",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.467118",
+                        "bdms": 0,
+                        "sqcgsl": "10919700"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "10602500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.448476",
+                        "bdms": 0,
+                        "sqcgsl": "10863600"
+                    },
+                    {
+                        "gddm": "30042327",
+                        "gdmc": "刘伟",
+                        "cgsl": "10080100",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.426378",
+                        "bdms": 0,
+                        "sqcgsl": "9780100"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "黄敏华",
+                        "cgsl": "10000000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.42299",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82732125",
+                        "gdmc": "山西同欣康复医院有限公司",
+                        "cgsl": "9948590",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.420815",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "10000442",
+                        "gdmc": "上海大众公用事业(集团)股份有限公司",
+                        "cgsl": "473186000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "20.0153",
+                        "bdms": 0,
+                        "sqcgsl": "473186000"
+                    },
+                    {
+                        "gddm": "80382410",
+                        "gdmc": "Fretum Construction ＆ Engineering Enterprise Limited",
+                        "cgsl": "111499000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.7163",
+                        "bdms": 0,
+                        "sqcgsl": "111499000"
+                    },
+                    {
+                        "gddm": "80136216",
+                        "gdmc": "大众(香港)国际有限公司",
+                        "cgsl": "47676300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.01666",
+                        "bdms": 0,
+                        "sqcgsl": "47676300"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "14369100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.607798",
+                        "bdms": 0,
+                        "sqcgsl": "14483200"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "丁胜利",
+                        "cgsl": "12950000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.547772",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李传元",
+                        "cgsl": "12511500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.529223",
+                        "bdms": 0,
+                        "sqcgsl": "11875500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "洪雁",
+                        "cgsl": "10919700",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.461892",
+                        "bdms": 0,
+                        "sqcgsl": "10569900"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "10863600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.459521",
+                        "bdms": 0,
+                        "sqcgsl": "10955500"
+                    },
+                    {
+                        "gddm": "30042327",
+                        "gdmc": "刘伟",
+                        "cgsl": "9780100",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.413688",
+                        "bdms": 0,
+                        "sqcgsl": "9570500"
+                    },
+                    {
+                        "gddm": "82932377",
+                        "gdmc": "杭州盛为进出口有限公司",
+                        "cgsl": "8600000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.3638",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "10000442",
+                        "gdmc": "上海大众公用事业(集团)股份有限公司",
+                        "cgsl": "473186000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "20.0153",
+                        "bdms": 0,
+                        "sqcgsl": "473186000"
+                    },
+                    {
+                        "gddm": "80382410",
+                        "gdmc": "Fretum Construction ＆ Engineering Enterprise Limited",
+                        "cgsl": "111499000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.7163",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80136216",
+                        "gdmc": "大众(香港)国际有限公司",
+                        "cgsl": "47676300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.0167",
+                        "bdms": 0,
+                        "sqcgsl": "47676300"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "14483200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.612624",
+                        "bdms": 0,
+                        "sqcgsl": "14483200"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李传元",
+                        "cgsl": "11875500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.502323",
+                        "bdms": 0,
+                        "sqcgsl": "11875500"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "10955500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.463408",
+                        "bdms": 0,
+                        "sqcgsl": "10955500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "洪雁",
+                        "cgsl": "10569900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.447096",
+                        "bdms": 0,
+                        "sqcgsl": "10660000"
+                    },
+                    {
+                        "gddm": "30042327",
+                        "gdmc": "刘伟",
+                        "cgsl": "9570500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.404822",
+                        "bdms": 0,
+                        "sqcgsl": "9570500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "徐朝阳",
+                        "cgsl": "8689600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.367561",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "姜佳丽",
+                        "cgsl": "7911400",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.334644",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-29 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

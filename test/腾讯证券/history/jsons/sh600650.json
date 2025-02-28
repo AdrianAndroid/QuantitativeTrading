@@ -1,0 +1,398 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80006867",
+                        "gdmc": "上海锦江资本有限公司",
+                        "cgsl": "212586000",
+                        "gfxz": "国有股",
+                        "ltbl": "38.5393",
+                        "bdms": 0,
+                        "sqcgsl": "212586000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "金樟贤",
+                        "cgsl": "5300000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.960824",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80054862",
+                        "gdmc": "招商证券(香港)有限公司",
+                        "cgsl": "4098370",
+                        "gfxz": "国有股",
+                        "ltbl": "0.742982",
+                        "bdms": 0,
+                        "sqcgsl": "6289770"
+                    },
+                    {
+                        "gddm": "80014649",
+                        "gdmc": "上海锦江饭店有限公司",
+                        "cgsl": "3761490",
+                        "gfxz": "国有股",
+                        "ltbl": "0.6819",
+                        "bdms": 0,
+                        "sqcgsl": "3761490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈明",
+                        "cgsl": "2315940",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.41985",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80044862",
+                        "gdmc": "MORGAN STANLEY & CO. INTERNATIONAL PLC.",
+                        "cgsl": "1647600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.298689",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80442826",
+                        "gdmc": "上海锦江汽车服务有限公司(工会)",
+                        "cgsl": "1600000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.2901",
+                        "bdms": 0,
+                        "sqcgsl": "1600000"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "1448420",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.2626",
+                        "bdms": 0,
+                        "sqcgsl": "1448420"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "DEBORAH WANG LIN",
+                        "cgsl": "1300000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.235674",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80044863",
+                        "gdmc": "UBS AG",
+                        "cgsl": "1277780",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.231645",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80006867",
+                        "gdmc": "上海锦江资本有限公司",
+                        "cgsl": "212586000",
+                        "gfxz": "国有股",
+                        "ltbl": "38.5393",
+                        "bdms": 0,
+                        "sqcgsl": "212586000"
+                    },
+                    {
+                        "gddm": "80054862",
+                        "gdmc": "招商证券(香港)有限公司",
+                        "cgsl": "6289770",
+                        "gfxz": "国有股",
+                        "ltbl": "1.14026",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80014649",
+                        "gdmc": "上海锦江饭店有限公司",
+                        "cgsl": "3761490",
+                        "gfxz": "国有股",
+                        "ltbl": "0.681912",
+                        "bdms": 0,
+                        "sqcgsl": "3761490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "石晶波",
+                        "cgsl": "2800000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.507605",
+                        "bdms": 0,
+                        "sqcgsl": "2633000"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "1912670",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.346744",
+                        "bdms": 0,
+                        "sqcgsl": "1909470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "沈军",
+                        "cgsl": "1604600",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.290894",
+                        "bdms": 0,
+                        "sqcgsl": "1387000"
+                    },
+                    {
+                        "gddm": "80442826",
+                        "gdmc": "上海锦江汽车服务有限公司(工会)",
+                        "cgsl": "1600000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.29006",
+                        "bdms": 0,
+                        "sqcgsl": "1600000"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "1448420",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.262581",
+                        "bdms": 0,
+                        "sqcgsl": "1448420"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张永光",
+                        "cgsl": "1370710",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.248492",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "山如黛",
+                        "cgsl": "1342210",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.243325",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-24 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80006867",
+                        "gdmc": "上海锦江资本有限公司",
+                        "cgsl": "212586000",
+                        "gfxz": "国有股",
+                        "ltbl": "38.5393",
+                        "bdms": 0,
+                        "sqcgsl": "212586000"
+                    },
+                    {
+                        "gddm": "80001223",
+                        "gdmc": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED-CLIENT ACCOUNT",
+                        "cgsl": "5114240",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.927147",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80014649",
+                        "gdmc": "上海锦江饭店有限公司",
+                        "cgsl": "3761490",
+                        "gfxz": "国有股",
+                        "ltbl": "0.681912",
+                        "bdms": 0,
+                        "sqcgsl": "3761490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "石晶波",
+                        "cgsl": "2633000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.47733",
+                        "bdms": 0,
+                        "sqcgsl": "2333000"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR Portfolio Emerging Markets ETF",
+                        "cgsl": "1909470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.346164",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80442826",
+                        "gdmc": "上海锦江汽车服务有限公司(工会)",
+                        "cgsl": "1600000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.29006",
+                        "bdms": 0,
+                        "sqcgsl": "1600000"
+                    },
+                    {
+                        "gddm": "501219",
+                        "gdmc": "华夏银行股份有限公司－华夏智胜先锋股票型证券投资基金(LOF)",
+                        "cgsl": "1535300",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.278331",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "崔蕾",
+                        "cgsl": "1463900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.265387",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "1448420",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.262581",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "沈军",
+                        "cgsl": "1387000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.251446",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80006867",
+                        "gdmc": "上海锦江资本有限公司",
+                        "cgsl": "212586000",
+                        "gfxz": "国有股",
+                        "ltbl": "38.5393",
+                        "bdms": 0,
+                        "sqcgsl": "212586000"
+                    },
+                    {
+                        "gddm": "80001223",
+                        "gdmc": "THE  HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED-CLIENT ACCOUNT",
+                        "cgsl": "5114240",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.9271",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80014649",
+                        "gdmc": "上海锦江饭店有限公司",
+                        "cgsl": "3761490",
+                        "gfxz": "国有股",
+                        "ltbl": "0.6819",
+                        "bdms": 0,
+                        "sqcgsl": "3761490"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "石晶波",
+                        "cgsl": "2333000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.422944",
+                        "bdms": 0,
+                        "sqcgsl": "2333000"
+                    },
+                    {
+                        "gddm": "82503828",
+                        "gdmc": "SPDR  Portfolio Emerging Markets ETF",
+                        "cgsl": "1889470",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.342538",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80442826",
+                        "gdmc": "上海锦江汽车服务有限公司(工会)",
+                        "cgsl": "1600000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.2901",
+                        "bdms": 0,
+                        "sqcgsl": "1600000"
+                    },
+                    {
+                        "gddm": "80062822",
+                        "gdmc": "VANGUARD  EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "1448420",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.2626",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张永光",
+                        "cgsl": "1370710",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.248492",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80054862",
+                        "gdmc": "招商证券(香港)有限公司",
+                        "cgsl": "1358030",
+                        "gfxz": "国有股",
+                        "ltbl": "0.246194",
+                        "bdms": 0,
+                        "sqcgsl": "1408030"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "潘剑青",
+                        "cgsl": "1314500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.238302",
+                        "bdms": 0,
+                        "sqcgsl": "1404500"
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-29 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

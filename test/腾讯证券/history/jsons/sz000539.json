@@ -1,0 +1,410 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80012294",
+                        "gdmc": "广东省能源集团有限公司",
+                        "cgsl": "1644660000",
+                        "gfxz": "国有股",
+                        "ltbl": "31.3252",
+                        "bdms": 0,
+                        "sqcgsl": "1644660000"
+                    },
+                    {
+                        "gddm": "10000071",
+                        "gdmc": "广州发展集团股份有限公司",
+                        "cgsl": "116694000",
+                        "gfxz": "国有股",
+                        "ltbl": "2.22262",
+                        "bdms": 0,
+                        "sqcgsl": "116694000"
+                    },
+                    {
+                        "gddm": "80014083",
+                        "gdmc": "广东省电力开发公司",
+                        "cgsl": "94367300",
+                        "gfxz": "国有股",
+                        "ltbl": "1.79738",
+                        "bdms": 0,
+                        "sqcgsl": "94367300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "郑建祥",
+                        "cgsl": "26600000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.506639",
+                        "bdms": 0,
+                        "sqcgsl": "26600000"
+                    },
+                    {
+                        "gddm": "510500",
+                        "gdmc": "中国农业银行股份有限公司－中证500交易型开放式指数证券投资基金",
+                        "cgsl": "15673300",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.298523",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80063162",
+                        "gdmc": "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LTD",
+                        "cgsl": "15266100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.290766",
+                        "bdms": 0,
+                        "sqcgsl": "15378400"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "15075200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.287131",
+                        "bdms": 0,
+                        "sqcgsl": "15855500"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "13828500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.263386",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "12599800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.239984",
+                        "bdms": 0,
+                        "sqcgsl": "12599800"
+                    },
+                    {
+                        "gddm": "80047991",
+                        "gdmc": "超康投资有限公司",
+                        "cgsl": "11656700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.22202",
+                        "bdms": 0,
+                        "sqcgsl": "11656700"
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012294",
+                        "gdmc": "广东省能源集团有限公司",
+                        "cgsl": "1644660000",
+                        "gfxz": "国有股",
+                        "ltbl": "31.3252",
+                        "bdms": 0,
+                        "sqcgsl": "1644660000"
+                    },
+                    {
+                        "gddm": "10000071",
+                        "gdmc": "广州发展集团股份有限公司",
+                        "cgsl": "116694000",
+                        "gfxz": "国有股",
+                        "ltbl": "2.22262",
+                        "bdms": 0,
+                        "sqcgsl": "116694000"
+                    },
+                    {
+                        "gddm": "80014083",
+                        "gdmc": "广东省电力开发公司",
+                        "cgsl": "94367300",
+                        "gfxz": "国有股",
+                        "ltbl": "1.7974",
+                        "bdms": 0,
+                        "sqcgsl": "94367300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "郑建祥",
+                        "cgsl": "26600000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.506639",
+                        "bdms": 0,
+                        "sqcgsl": "26404900"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "15855500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.301993",
+                        "bdms": 0,
+                        "sqcgsl": "15855500"
+                    },
+                    {
+                        "gddm": "80063162",
+                        "gdmc": "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LTD",
+                        "cgsl": "15378400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.292905",
+                        "bdms": 0,
+                        "sqcgsl": "15328400"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "13846900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.263737",
+                        "bdms": 0,
+                        "sqcgsl": "15251300"
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "12599800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.239984",
+                        "bdms": 0,
+                        "sqcgsl": "12599800"
+                    },
+                    {
+                        "gddm": "80047991",
+                        "gdmc": "超康投资有限公司",
+                        "cgsl": "11656700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.222",
+                        "bdms": 0,
+                        "sqcgsl": "11656700"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "周峥",
+                        "cgsl": "10812800",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.205947",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-31 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012294",
+                        "gdmc": "广东省能源集团有限公司",
+                        "cgsl": "1644660000",
+                        "gfxz": "国有股",
+                        "ltbl": "31.3252",
+                        "bdms": 0,
+                        "sqcgsl": "1644660000"
+                    },
+                    {
+                        "gddm": "10000071",
+                        "gdmc": "广州发展集团股份有限公司",
+                        "cgsl": "116694000",
+                        "gfxz": "国有股",
+                        "ltbl": "2.22262",
+                        "bdms": 0,
+                        "sqcgsl": "116694000"
+                    },
+                    {
+                        "gddm": "80014083",
+                        "gdmc": "广东省电力开发公司",
+                        "cgsl": "94367300",
+                        "gfxz": "国有股",
+                        "ltbl": "1.79738",
+                        "bdms": 0,
+                        "sqcgsl": "94367300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "郑建祥",
+                        "cgsl": "26404900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.502924",
+                        "bdms": 0,
+                        "sqcgsl": "26404900"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "15855500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.301993",
+                        "bdms": 0,
+                        "sqcgsl": "15855500"
+                    },
+                    {
+                        "gddm": "80063162",
+                        "gdmc": "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LTD",
+                        "cgsl": "15328400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.291953",
+                        "bdms": 0,
+                        "sqcgsl": "15328400"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "15251300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.290486",
+                        "bdms": 0,
+                        "sqcgsl": "16370800"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "13126800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.25002",
+                        "bdms": 0,
+                        "sqcgsl": "40553600"
+                    },
+                    {
+                        "gddm": "80465555",
+                        "gdmc": "NOMURA SINGAPORE LIMITED",
+                        "cgsl": "12599800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.239984",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80047991",
+                        "gdmc": "超康投资有限公司",
+                        "cgsl": "11656700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.22202",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-30 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012294",
+                        "gdmc": "广东省能源集团有限公司",
+                        "cgsl": "1644660000",
+                        "gfxz": "国有股",
+                        "ltbl": "31.3252",
+                        "bdms": 0,
+                        "sqcgsl": "1644660000"
+                    },
+                    {
+                        "gddm": "80014083",
+                        "gdmc": "广东省电力开发公司",
+                        "cgsl": "94367300",
+                        "gfxz": "国有股",
+                        "ltbl": "1.79738",
+                        "bdms": 0,
+                        "sqcgsl": "94367300"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "40553600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.772407",
+                        "bdms": 0,
+                        "sqcgsl": "18761000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "郑建祥",
+                        "cgsl": "26404900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.502924",
+                        "bdms": 0,
+                        "sqcgsl": "26234500"
+                    },
+                    {
+                        "gddm": "10000071",
+                        "gdmc": "广州发展集团股份有限公司",
+                        "cgsl": "116694000",
+                        "gfxz": "国有股",
+                        "ltbl": "2.22262",
+                        "bdms": 0,
+                        "sqcgsl": "116694000"
+                    },
+                    {
+                        "gddm": "270006",
+                        "gdmc": "中国工商银行－广发策略优选混合型证券投资基金",
+                        "cgsl": "18387300",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.350215",
+                        "bdms": 0,
+                        "sqcgsl": "23241400"
+                    },
+                    {
+                        "gddm": "010347",
+                        "gdmc": "招商银行股份有限公司－农银汇理策略收益一年持有期混合型证券投资基金",
+                        "cgsl": "17076400",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.325247",
+                        "bdms": 0,
+                        "sqcgsl": "17076400"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "16370800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.3118",
+                        "bdms": 0,
+                        "sqcgsl": "16274800"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "15855500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.302",
+                        "bdms": 0,
+                        "sqcgsl": "15855500"
+                    },
+                    {
+                        "gddm": "80063162",
+                        "gdmc": "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LTD",
+                        "cgsl": "15328400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.292",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-30 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

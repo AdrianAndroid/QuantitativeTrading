@@ -1,0 +1,400 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "80012979",
+                        "gdmc": "烟台张裕集团有限公司",
+                        "cgsl": "345474000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "49.906",
+                        "bdms": 0,
+                        "sqcgsl": "345474000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "江逢娣",
+                        "cgsl": "5000000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.722283",
+                        "bdms": 0,
+                        "sqcgsl": "5120000"
+                    },
+                    {
+                        "gddm": "80000129",
+                        "gdmc": "申万宏源证券(香港)有限公司",
+                        "cgsl": "4471350",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.645916",
+                        "bdms": 0,
+                        "sqcgsl": "7101350"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3446140",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.497817",
+                        "bdms": 0,
+                        "sqcgsl": "3483540"
+                    },
+                    {
+                        "gddm": "70010114",
+                        "gdmc": "全国社保基金一一四组合",
+                        "cgsl": "3425060",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.494772",
+                        "bdms": 0,
+                        "sqcgsl": "3253460"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "3309290",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.478049",
+                        "bdms": 0,
+                        "sqcgsl": "3171690"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "3108690",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.449071",
+                        "bdms": 0,
+                        "sqcgsl": "3358490"
+                    },
+                    {
+                        "gddm": "82745878",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3087200",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.445966",
+                        "bdms": 0,
+                        "sqcgsl": "3223440"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "邓红伟",
+                        "cgsl": "2790820",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.403152",
+                        "bdms": 0,
+                        "sqcgsl": "2790820"
+                    },
+                    {
+                        "gddm": "000893",
+                        "gdmc": "中国农业银行股份有限公司－工银瑞信创新动力股票型证券投资基金",
+                        "cgsl": "2670050",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.385706",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-28 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012979",
+                        "gdmc": "烟台张裕集团有限公司",
+                        "cgsl": "345474000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "49.906",
+                        "bdms": 0,
+                        "sqcgsl": "345474000"
+                    },
+                    {
+                        "gddm": "80000129",
+                        "gdmc": "申万宏源证券(香港)有限公司",
+                        "cgsl": "7101350",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.02584",
+                        "bdms": 0,
+                        "sqcgsl": "9061350"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "江逢娣",
+                        "cgsl": "5120000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.739618",
+                        "bdms": 0,
+                        "sqcgsl": "5307000"
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3483540",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.50322",
+                        "bdms": 0,
+                        "sqcgsl": "3483540"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "3358490",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.485156",
+                        "bdms": 0,
+                        "sqcgsl": "6861570"
+                    },
+                    {
+                        "gddm": "70010114",
+                        "gdmc": "全国社保基金一一四组合",
+                        "cgsl": "3253460",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.469983",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82745878",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3223440",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.465647",
+                        "bdms": 0,
+                        "sqcgsl": "3556650"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "3171690",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.458171",
+                        "bdms": 0,
+                        "sqcgsl": "4047300"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "邓红伟",
+                        "cgsl": "2790820",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.403152",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "000893",
+                        "gdmc": "工银瑞信创新动力股票型证券投资基金",
+                        "cgsl": "2670050",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.385706",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-22 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012979",
+                        "gdmc": "烟台张裕集团有限公司",
+                        "cgsl": "345474000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "49.906",
+                        "bdms": 0,
+                        "sqcgsl": "345474000"
+                    },
+                    {
+                        "gddm": "80000129",
+                        "gdmc": "申万宏源证券(香港)有限公司",
+                        "cgsl": "9061350",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.30897",
+                        "bdms": 0,
+                        "sqcgsl": "9061350"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+                        "cgsl": "6861570",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.991199",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "江逢娣",
+                        "cgsl": "5307000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.766631",
+                        "bdms": 0,
+                        "sqcgsl": "5307000"
+                    },
+                    {
+                        "gddm": "80116246",
+                        "gdmc": "GAOLING FUND,L.P.",
+                        "cgsl": "4178580",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.603624",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "4047300",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.584659",
+                        "bdms": 0,
+                        "sqcgsl": "5323030"
+                    },
+                    {
+                        "gddm": "82745878",
+                        "gdmc": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
+                        "cgsl": "3556650",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.513782",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+                        "cgsl": "3483540",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.50322",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李刚",
+                        "cgsl": "2990000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.431925",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "10001968",
+                        "gdmc": "Haitong International Securities Company Limited-Account Client",
+                        "cgsl": "2961490",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.4278",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-26 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "80012979",
+                        "gdmc": "烟台张裕集团有限公司",
+                        "cgsl": "345474000",
+                        "gfxz": "境内法人股",
+                        "ltbl": "49.906",
+                        "bdms": 0,
+                        "sqcgsl": "345474000"
+                    },
+                    {
+                        "gddm": "80116246",
+                        "gdmc": "GAOLINGFUND,L.P.",
+                        "cgsl": "12239000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.768",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80000129",
+                        "gdmc": "申万宏源证券(香港)有限公司",
+                        "cgsl": "9061350",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.30897",
+                        "bdms": 0,
+                        "sqcgsl": "9061350"
+                    },
+                    {
+                        "gddm": "80000121",
+                        "gdmc": "GUOTAIJUNANSECURITIES(HONGKONG)LIMITED",
+                        "cgsl": "6918840",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.999472",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "5323030",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.768947",
+                        "bdms": 0,
+                        "sqcgsl": "4723470"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "江逢娣",
+                        "cgsl": "5307000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.766631",
+                        "bdms": 0,
+                        "sqcgsl": "5307000"
+                    },
+                    {
+                        "gddm": "80066139",
+                        "gdmc": "BBHBOSS/AFIDELITYFD-CHINAFOCUSFD",
+                        "cgsl": "4792990",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.692379",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "82745878",
+                        "gdmc": "VANGUARDEMERGINGMARKETSSTOCKINDEXFUND",
+                        "cgsl": "4094260",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.5914",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "10001968",
+                        "gdmc": "HaitongInternationalSecuritiesCompanyLimited-AccountClient",
+                        "cgsl": "3921900",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.566545",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80185667",
+                        "gdmc": "VANGUARDTOTALINTERNATIONALSTOCKINDEXFUND",
+                        "cgsl": "3483540",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.50322",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-04-12 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003"
+        ]
+    }
+}

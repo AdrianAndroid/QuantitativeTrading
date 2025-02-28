@@ -1,0 +1,175 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "王慧生",
+                        "cgsl": "141500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0956081",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王杰",
+                        "cgsl": "145700",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0984459",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张磊",
+                        "cgsl": "150000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.101351",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "戚建",
+                        "cgsl": "150000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.101351",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李文甲",
+                        "cgsl": "160000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.108108",
+                        "bdms": 0,
+                        "sqcgsl": "160000"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "程明",
+                        "cgsl": "169946",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.114828",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "林云友",
+                        "cgsl": "170000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.114865",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80056835",
+                        "gdmc": "BARCLAYS BANK PLC",
+                        "cgsl": "247083",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.166948",
+                        "bdms": 0,
+                        "sqcgsl": "278800"
+                    },
+                    {
+                        "gddm": "81568202",
+                        "gdmc": "高盛公司有限责任公司",
+                        "cgsl": "279340",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.188743",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80044862",
+                        "gdmc": "MORGAN STANLEY & CO. INTERNATIONAL PLC.",
+                        "cgsl": "391364",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.264435",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-29 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": null,
+                        "gdmc": "麻红卫",
+                        "cgsl": "101500",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0685811"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "陈海胜",
+                        "cgsl": "103863",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0701777"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "王承喜",
+                        "cgsl": "105100",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0710135"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张惠明",
+                        "cgsl": "117900",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.0796622"
+                    },
+                    {
+                        "gddm": "80044863",
+                        "gdmc": "UBS AG",
+                        "cgsl": "131290",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.0887095"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "张秀",
+                        "cgsl": "155000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.10473"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "李文甲",
+                        "cgsl": "160000",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.108108"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "刘勇",
+                        "cgsl": "198800",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.134324"
+                    },
+                    {
+                        "gddm": "70306761",
+                        "gdmc": "J. P. Morgan Securities PLC－自有资金",
+                        "cgsl": "204456",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.138146"
+                    },
+                    {
+                        "gddm": "80056835",
+                        "gdmc": "BARCLAYS BANK PLC",
+                        "cgsl": "278800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.188378"
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-27 00:00:00"
+            }
+        ],
+        "history": [
+            "2024"
+        ]
+    }
+}

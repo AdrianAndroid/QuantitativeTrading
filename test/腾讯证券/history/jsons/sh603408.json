@@ -1,0 +1,388 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "data": [
+            {
+                "rows": [
+                    {
+                        "gddm": "81628467",
+                        "gdmc": "JADE FORTUNE LIMITED",
+                        "cgsl": "90361500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "20.1892",
+                        "bdms": 0,
+                        "sqcgsl": "90361500"
+                    },
+                    {
+                        "gddm": "81628468",
+                        "gdmc": "PERFECT ESTATE LIMITED",
+                        "cgsl": "79083600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "17.6694",
+                        "bdms": 0,
+                        "sqcgsl": "79083600"
+                    },
+                    {
+                        "gddm": "80475839",
+                        "gdmc": "YUEN TAI LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.08546",
+                        "bdms": 0,
+                        "sqcgsl": "40664100"
+                    },
+                    {
+                        "gddm": "81628471",
+                        "gdmc": "ESTEEM LEAD LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.08546",
+                        "bdms": 0,
+                        "sqcgsl": "40664100"
+                    },
+                    {
+                        "gddm": "81628478",
+                        "gdmc": "ALPHA LAND LIMITED",
+                        "cgsl": "31174000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "6.96512",
+                        "bdms": 0,
+                        "sqcgsl": "31174000"
+                    },
+                    {
+                        "gddm": "81628482",
+                        "gdmc": "STAR EIGHT LIMITED",
+                        "cgsl": "20084000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.48731",
+                        "bdms": 0,
+                        "sqcgsl": "20084000"
+                    },
+                    {
+                        "gddm": "81628484",
+                        "gdmc": "NEW EMPIRE LIMITED",
+                        "cgsl": "16579700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.70437",
+                        "bdms": 0,
+                        "sqcgsl": "16579700"
+                    },
+                    {
+                        "gddm": "81628486",
+                        "gdmc": "HEROIC EPOCH LIMITED",
+                        "cgsl": "12050400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.69239",
+                        "bdms": 0,
+                        "sqcgsl": "12050400"
+                    },
+                    {
+                        "gddm": "30763865",
+                        "gdmc": "廖美红",
+                        "cgsl": "11954100",
+                        "gfxz": "自然人股",
+                        "ltbl": "2.67087",
+                        "bdms": 0,
+                        "sqcgsl": "11954100"
+                    },
+                    {
+                        "gddm": "80568462",
+                        "gdmc": "香港中央结算有限公司",
+                        "cgsl": "11114500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.48329",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-09-30",
+                "dt": "2024-10-26 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "81628467",
+                        "gdmc": "JADE FORTUNE LIMITED",
+                        "cgsl": "90361500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "20.1892",
+                        "bdms": 0,
+                        "sqcgsl": "90361500"
+                    },
+                    {
+                        "gddm": "81628468",
+                        "gdmc": "PERFECT ESTATE LIMITED",
+                        "cgsl": "79083600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "17.6694",
+                        "bdms": 0,
+                        "sqcgsl": "79083600"
+                    },
+                    {
+                        "gddm": "80475839",
+                        "gdmc": "YUEN TAI LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.08546",
+                        "bdms": 0,
+                        "sqcgsl": "40664100"
+                    },
+                    {
+                        "gddm": "81628471",
+                        "gdmc": "ESTEEM LEAD LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.08546",
+                        "bdms": 0,
+                        "sqcgsl": "40664100"
+                    },
+                    {
+                        "gddm": "81628478",
+                        "gdmc": "ALPHA LAND LIMITED",
+                        "cgsl": "31174000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "6.96512",
+                        "bdms": 0,
+                        "sqcgsl": "31174000"
+                    },
+                    {
+                        "gddm": "81628482",
+                        "gdmc": "STAR EIGHT LIMITED",
+                        "cgsl": "20084000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.48731",
+                        "bdms": 0,
+                        "sqcgsl": "20084000"
+                    },
+                    {
+                        "gddm": "81628484",
+                        "gdmc": "NEW EMPIRE LIMITED",
+                        "cgsl": "16579700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.70437",
+                        "bdms": 0,
+                        "sqcgsl": "16579700"
+                    },
+                    {
+                        "gddm": "81628486",
+                        "gdmc": "HEROIC EPOCH LIMITED",
+                        "cgsl": "12050400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.69239",
+                        "bdms": 0,
+                        "sqcgsl": "12050400"
+                    },
+                    {
+                        "gddm": "30763865",
+                        "gdmc": "廖美红",
+                        "cgsl": "11954100",
+                        "gfxz": "自然人股",
+                        "ltbl": "2.67087",
+                        "bdms": 0,
+                        "sqcgsl": "12764200"
+                    },
+                    {
+                        "gddm": "81628494",
+                        "gdmc": "YUEN CHENG LIMITED",
+                        "cgsl": "4518500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.00956",
+                        "bdms": 1
+                    }
+                ],
+                "pdt": "2024-06-30",
+                "dt": "2024-08-24 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "81628467",
+                        "gdmc": "JADE FORTUNE LIMITED",
+                        "cgsl": "90361500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "20.1224",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628468",
+                        "gdmc": "PERFECT ESTATE LIMITED",
+                        "cgsl": "79083600",
+                        "gfxz": "境外法人股",
+                        "ltbl": "17.6109",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "80475839",
+                        "gdmc": "YUEN TAI LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.05539",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628471",
+                        "gdmc": "ESTEEM LEAD LIMITED",
+                        "cgsl": "40664100",
+                        "gfxz": "境外法人股",
+                        "ltbl": "9.05539",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628478",
+                        "gdmc": "ALPHA LAND LIMITED",
+                        "cgsl": "31174000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "6.94206",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628482",
+                        "gdmc": "STAR EIGHT LIMITED",
+                        "cgsl": "20084000",
+                        "gfxz": "境外法人股",
+                        "ltbl": "4.47246",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628484",
+                        "gdmc": "NEW EMPIRE LIMITED",
+                        "cgsl": "16579700",
+                        "gfxz": "境外法人股",
+                        "ltbl": "3.6921",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "30763865",
+                        "gdmc": "廖美红",
+                        "cgsl": "12764200",
+                        "gfxz": "自然人股",
+                        "ltbl": "2.84243",
+                        "bdms": 0,
+                        "sqcgsl": "12764200"
+                    },
+                    {
+                        "gddm": "81628486",
+                        "gdmc": "HEROIC EPOCH LIMITED",
+                        "cgsl": "12050400",
+                        "gfxz": "境外法人股",
+                        "ltbl": "2.68348",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628490",
+                        "gdmc": "BEST STRENGTH LIMITED",
+                        "cgsl": "4636880",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.03258",
+                        "bdms": 0,
+                        "sqcgsl": "5115080"
+                    }
+                ],
+                "pdt": "2024-03-31",
+                "dt": "2024-04-27 00:00:00"
+            },
+            {
+                "rows": [
+                    {
+                        "gddm": "30763865",
+                        "gdmc": "廖美红",
+                        "cgsl": "12764200",
+                        "gfxz": "自然人股",
+                        "ltbl": "2.84243",
+                        "bdms": 0,
+                        "sqcgsl": "12764200"
+                    },
+                    {
+                        "gddm": "81628489",
+                        "gdmc": "ALPHA PLUS LIMITED",
+                        "cgsl": "5123220",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.14088",
+                        "bdms": 0,
+                        "sqcgsl": "6913320"
+                    },
+                    {
+                        "gddm": "81628490",
+                        "gdmc": "BEST STRENGTH LIMITED",
+                        "cgsl": "5115080",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.13907",
+                        "bdms": 0,
+                        "sqcgsl": "5115080"
+                    },
+                    {
+                        "gddm": "81628492",
+                        "gdmc": "TOTAL PIONEER HOLDINGS LIMITED",
+                        "cgsl": "4518500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.00621",
+                        "bdms": 0,
+                        "sqcgsl": "4518500"
+                    },
+                    {
+                        "gddm": "81628494",
+                        "gdmc": "YUEN CHENG LIMITED",
+                        "cgsl": "4518500",
+                        "gfxz": "境外法人股",
+                        "ltbl": "1.00621",
+                        "bdms": 0,
+                        "sqcgsl": "4518500"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "厉向琴",
+                        "cgsl": "3919100",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.872735",
+                        "bdms": 0,
+                        "sqcgsl": "3974100"
+                    },
+                    {
+                        "gddm": "81628495",
+                        "gdmc": "EVER GLITTER LIMITED",
+                        "cgsl": "3634800",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.809425",
+                        "bdms": 0,
+                        "sqcgsl": "3634800"
+                    },
+                    {
+                        "gddm": null,
+                        "gdmc": "君智祥",
+                        "cgsl": "2436190",
+                        "gfxz": "自然人股",
+                        "ltbl": "0.542509",
+                        "bdms": 1
+                    },
+                    {
+                        "gddm": "81628496",
+                        "gdmc": "SONIC TRACK LIMITED",
+                        "cgsl": "2235750",
+                        "gfxz": "境外法人股",
+                        "ltbl": "0.497874",
+                        "bdms": 0,
+                        "sqcgsl": "2235750"
+                    },
+                    {
+                        "gddm": "81628453",
+                        "gdmc": "象山亚威苗木场(普通合伙)",
+                        "cgsl": "1584490",
+                        "gfxz": "境内法人股",
+                        "ltbl": "0.352845",
+                        "bdms": 0,
+                        "sqcgsl": "1634490"
+                    }
+                ],
+                "pdt": "2023-12-31",
+                "dt": "2024-03-30 00:00:00"
+            }
+        ],
+        "history": [
+            "2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020"
+        ]
+    }
+}
