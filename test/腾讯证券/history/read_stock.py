@@ -22,4 +22,4 @@ for index, row in df.iterrows():
 #     print(f"行索引: {idx}")
 #     for col in df.columns:
 #         print(f"{col}: {df.loc[idx, col]}")
-rxz#     print()
+#     print()
