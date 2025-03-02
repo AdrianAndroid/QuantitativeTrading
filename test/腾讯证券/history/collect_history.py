@@ -24,9 +24,27 @@ def is_file_exits(filepath):
     return os.path.exists(filepath) and os.path.isfile(filepath)
 
 
+def is_json_file_validate(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as file:
+            content = file.read()
+            data = json.loads(content)
+            if isinstance(data, (list, dict)) and len(data) == 0:
+                return False
+            return True
+    except json.JSONDecodeError:
+        return False
+    except FileNotFoundError:
+        print(f"文件 {filepath} 未找到。")
+        return False
+
+
 def load_json_history_list(history_file_path):
     isFileExits = is_file_exits(history_file_path)
     if not isFileExits:
+        return list()
+    if not is_json_file_validate(history_file_path):
+        print(f'{history_file_path} 不是json文件.')
         return list()
     with open(history_file_path, 'r', encoding='utf-8') as file:
         json_data = json.load(file)
@@ -110,9 +128,9 @@ def save_json_data(__filepath, jsonData):
 def call_back(_code, _name, _type):
     typeCode = f'{_type}{_code}'
     # 读取stock.json
-    s_h_f_p = stock_history_filepath(_code, _name, _type)
+    stockHistoryFilePath = stock_history_filepath(_code, _name, _type)
     # 读取json中的history内容
-    loadJsonHistoryList = load_json_history_list(s_h_f_p)
+    loadJsonHistoryList = load_json_history_list(stockHistoryFilePath)
     print(loadJsonHistoryList)
     if not isinstance(loadJsonHistoryList, list):
         pass
